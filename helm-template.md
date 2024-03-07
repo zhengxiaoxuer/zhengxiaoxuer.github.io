@@ -1,6 +1,6 @@
 layout: page
 title: "helm-template"
-permalink: /devops/k8s/helm
+permalink: /devops/k8s/helm/
 
 
 links:
